@@ -1,0 +1,21 @@
+▶️ How to Run a model1_implementation.ipynb and model2_implementation.ipynb File in Google Colab
+Open Google Colab
+Go to https://colab.research.google.com
+
+Upload the Notebook
+
+Click on "File" → "Upload notebook..."
+
+Select the model1_implementation.ipynb file from local system.
+
+Run Code Cells
+
+Click the play button next to each code cell, or
+
+Use Runtime → Run all to execute the entire notebook.
+
+(Optional) Connect to GPU
+
+Go to Runtime → Change runtime type
+
+Select GPU under “Hardware accelerator” for faster training.
