@@ -83,7 +83,7 @@ XLM is specifically designed for multilingual NLP tasks. It leverages Transforme
 ## How to Run the Code
 
 1. Clone this repository.
-2. Install the required dependencies from `requirements.txt`.
+2. Install the required dependencies from `instruction.txt`.
 3. Run the notebooks or Python files for both models:
    - `model1_implementation.ipynb` (Random Forest and LSTM models).
    - `model2_implementation.ipynb` (XLM model).
